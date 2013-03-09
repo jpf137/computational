@@ -1,0 +1,27 @@
+CFLAGS="-Wall" #for future use after cc or gcc
+
+cc -o compilable_filename executable_filename
+
+you can just use make filename (without c) to compile into an exe with the right name
+
+do use environment variables
+
+in makefile: do not use a mix of tabs and spaces
+
+read manual entries: puts,makefile,cc,gcc
+
+first entry in makefile is default
+
+learn bashscript too...
+
+some of my man pages are missing
+
+man 3 is the programming-oriented manual rather than man
+
+formatted output: try it on an advanced instance when you want outputs from a sim:
+
+int, evenly spaced ints of different lens, sci notation, etc
+
+valgrind is amazing!
+
+use curl and wget and github and bitbucket
